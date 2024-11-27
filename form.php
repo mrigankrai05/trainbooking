@@ -52,16 +52,16 @@
     </style>
     <body>
         <div class="nav">
-        <div>
-            <a href="index.php">Home</a>
+            <div>
+                <a href="index.php">Home</a>
+            </div>
+            <div>
+                <img src="jiit.jpg" alt="Logo"><br><br>
+            </div>
+            <div>
+                <a href="bookingdetail.php">Check Booking</a>
+            </div>
         </div>
-        <div>
-            <img src="jiit.jpg" alt="Logo"><br><br>
-        </div>
-        <div>
-            <a href="bookingdetail.php">Check Booking</a>
-        </div>
-    </div>
         <form action="" method="post">
             <h2 class="text-base/7 font-semibold text-gray-900" id="heading">Please Enter Information</h2>
             <div class="border-b border-gray-900/10 pb-12" id="mainform">

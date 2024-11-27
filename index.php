@@ -36,10 +36,12 @@
 <body>
     <div class="nav">
         <div>
-            <a href="index.php">Home</a>
+            <a href="../landingpage.php">Home</a>
         </div>
         <div>
+             <a href="../landingpage.php">
             <img src="jiit.jpg" alt="Logo"><br><br>
+            </a>
         </div>
         <div>
             <a href="bookingdetail.php">Check Booking</a>
